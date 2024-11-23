@@ -27,3 +27,9 @@ criaCartao(
     'O que Silco faz com Jinx?',
     'Silco manipula Jinx emocionalmente e a utiliza como sua principal arma. Ele aproveita a instabilidade emocional de Jinx e a incentiva a causar destruição em Piltover e Zaun. Ele também promete a Jinx que ele entende ela melhor do que qualquer outra pessoa, se tornando uma figura de poder para ela.'
 )
+
+criaCartao(
+    'Arcane',
+    'Por que Jinx se torna uma ameaça tão grande?',
+    'Jinx se torna uma ameaça devido à instabilidade emocional e ao poder das armas que ela controla, principalmente as criadas a partir da tecnologia Hextech. Ela fica cada vez mais obcecada em causar caos e destruição, especialmente depois da perda de sua irmã Vi e da morte de Vander.'
+)
